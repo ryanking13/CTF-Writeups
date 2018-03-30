@@ -8,3 +8,5 @@ for i in range(d):
 	dec %= N
 
 print(dec)
+
+print(pow(e, d, N))
