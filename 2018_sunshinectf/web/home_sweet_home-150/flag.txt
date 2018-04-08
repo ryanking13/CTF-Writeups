@@ -1,0 +1,4 @@
+https://github.com/lucyoa/ctf-wiki/tree/master/web/ip-access-control
+
+X-Originating-IP: 127.0.0.1
+X-Forwarded-For: 127.0.0.1
